@@ -299,7 +299,7 @@ body {
   transform: scale(1.05);
 }
 .music-item p {
-  margin-top: 10px;
+  margin-top: 5px;
   font-size: 1rem;
   font-weight: bold;
   color: #ffb6c1;

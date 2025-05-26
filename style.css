@@ -48,7 +48,7 @@ body {
 .hero {
   background-size: cover;
   background-position: center;
-  height: 150vh;
+  height: 130vh;
   position: relative;
 }
 .hero-overlay {

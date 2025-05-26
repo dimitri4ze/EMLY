@@ -275,7 +275,7 @@ body {
 /* Optional: Hide mobile menu on desktop just in case */
 @media (min-width: 769px) {
   .mobile-menu {
-    display: none !important;
+    
   }
 }
 .music-gallery {

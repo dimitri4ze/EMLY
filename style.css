@@ -34,11 +34,11 @@ body {
   gap: 15px;
 }
 .socials i {
-  color: crimson;
+  color: #ECBDC4;
   font-size: 1.2rem;
 }
 .spotify-btn {
-  background: #DC143C;
+  background: #ECBDC4;
   color: white;
   padding: 5px 15px;
   text-decoration: none;
@@ -139,7 +139,7 @@ body {
 }
 .site-footer .social-icons a {
   margin: 0 10px;
-  color: crimson;
+  color: #ECBDC4;
   font-size: 1.5rem;
 }
 .newsletter {

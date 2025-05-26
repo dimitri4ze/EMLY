@@ -206,7 +206,7 @@ body {
 .hamburger span {
   width: 25px;
   height: 3px;
-  background: crimson;
+  background: #ECBDC4;
   display: block;
   transition: 0.3s ease;
 }
